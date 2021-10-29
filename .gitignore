@@ -1,0 +1,28 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Videos
+/source
+/Searches
+/Saved Games
+/OneDrive
+/ntuser.ini
+/NTUSER.DAT{6c40ea84-f0cc-11eb-8693-c0defa53c5df}.TMContainer00000000000000000002.regtrans-ms
+/NTUSER.DAT{6c40ea84-f0cc-11eb-8693-c0defa53c5df}.TMContainer00000000000000000001.regtrans-ms
+/NTUSER.DAT{6c40ea84-f0cc-11eb-8693-c0defa53c5df}.TM.blf
+/ntuser.dat.LOG2
+/ntuser.dat.LOG1
+/NTUSER.DAT
+/Music
+/Links
+/IntelGraphicsProfiles
+/Favorites
+/Downloads
+/Contacts
+/AppData
+/3D Objects
+/.vscode
+/.gitconfig
+/.dotnet
+/.bash_history
