@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\OOPProject\OOPProject\bin\Debug\OOPProject.exe.config
+C:\Users\lenovo\source\repos\OOPProject\OOPProject\bin\Debug\OOPProject.exe
+C:\Users\lenovo\source\repos\OOPProject\OOPProject\bin\Debug\OOPProject.pdb
+C:\Users\lenovo\source\repos\OOPProject\OOPProject\obj\Debug\OOPProject.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\OOPProject\OOPProject\obj\Debug\OOPProject.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\OOPProject\OOPProject\obj\Debug\OOPProject.exe
+C:\Users\lenovo\source\repos\OOPProject\OOPProject\obj\Debug\OOPProject.pdb
+C:\Users\lenovo\source\repos\OOP\OOPProject\OOPProject\bin\Debug\OOPProject.exe.config
+C:\Users\lenovo\source\repos\OOP\OOPProject\OOPProject\bin\Debug\OOPProject.exe
+C:\Users\lenovo\source\repos\OOP\OOPProject\OOPProject\bin\Debug\OOPProject.pdb
+C:\Users\lenovo\source\repos\OOP\OOPProject\OOPProject\obj\Debug\OOPProject.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\OOP\OOPProject\OOPProject\obj\Debug\OOPProject.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\OOP\OOPProject\OOPProject\obj\Debug\OOPProject.exe
+C:\Users\lenovo\source\repos\OOP\OOPProject\OOPProject\obj\Debug\OOPProject.pdb
